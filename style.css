@@ -1,0 +1,78 @@
+body {
+    background-image: url(background.jpg.jpg);
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.menu {
+    width: 80%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: burlywood;
+}
+.established {
+    font-style: italic;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+    width: 70px;
+}
+h1, h2, p {
+    text-align: center;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 30px;
+}
+hr {
+    background-color: brown;
+    border-color: brown;
+    height: 3px;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+.flavor {
+    text-align: left;
+    width: 75%;
+}
+.price {
+    text-align: right;
+    width: 25%
+}
+.bottom-line {
+    margin-top: 30px;
+}
+footer {
+    font-size: 15px;
+}
+.address {
+    margin-bottom: 5px;
+}
+a {
+    color: black;
+    text-align: center;
+}
+a:hover {
+    color: brown;
+}
+a:visited {
+    color: brown;
+}
+a:active {
+    color:black;
+}
